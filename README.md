@@ -39,12 +39,12 @@ The agents' behavior is determined by simple rules.
 **Preys:**
 
 Several behaviors are mixed, according to certain precedence:
- 1. Escape from predators
- 2. Seek food
- 3. Flock motion (a.k.a *boids*)
-   - Cohesion
-   - Alignment
-   - Separation
+1. Escape from predators
+2. Seek food
+3.  Flock motion
+    1. Cohesion
+    2. Alignment
+    3. Separation
 
 **Predators:**
 
