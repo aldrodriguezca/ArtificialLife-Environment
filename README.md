@@ -48,4 +48,4 @@ A genetic algorithm is performed, entire population is replaced using selection,
 Java and processing are required to run this program
 
 ## Demo
-*Insert video url here*
+https://youtu.be/r3rPx0F-xAM
