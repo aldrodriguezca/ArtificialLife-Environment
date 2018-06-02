@@ -42,9 +42,9 @@ Several behaviors are mixed, according to certain precedence:
  1. Escape from predators
  2. Seek food
  3. Flock motion (a.k.a *boids*)
-  ..1.Cohesion
-  ..2.Alignment
-  ..3.Separation
+   - Cohesion
+   - Alignment
+   - Separation
 
 **Predators:**
 
