@@ -27,10 +27,10 @@ Note: Preys also have a food satisfaction threshold, when it is reached, *boids*
 **Agents**
 
 **Preys:**
-<img src="img/gold.png" width="250px">
+<img src="gold.png" width="250px">
 
 **Predators:**
-<img src="img/f2.png" width="250px">
+<img src="f2.png" width="250px">
 
 **Behavior**
 
@@ -59,17 +59,17 @@ This behavior is a little bit simpler than preys':
 
 **Preys:**
 
-![Affine prey 1](img/transformedPrey12.png)
-![Affine prey 2](img/transformedPrey23.png)
-![Affine prey 3](img/transformedPrey25.png)
-![Affine prey 4](img/transformedPrey52.png)
+![Affine prey 1](transformedPrey12.png)
+![Affine prey 2](transformedPrey23.png)
+![Affine prey 3](transformedPrey25.png)
+![Affine prey 4](transformedPrey52.png)
 
 **Predators:**
 
-![Affine predator1](img/predator2.png)
-![Affine predator2](img/predator12.png)
-![Affine predator3](img/predator5.png)
-![Affine predator4](img/predator4.png)
+![Affine predator1](predator2.png)
+![Affine predator2](predator12.png)
+![Affine predator3](predator5.png)
+![Affine predator4](predator4.png)
 
 ### Skins
 Preys have skins which are made using Turing patterns  - Reaction diffusion systems; based on [Reaction-Diffusion Tutorial, by Karl Sims](http://www.karlsims.com/rd.html), where he explains in detail the differential equations and convolutions required.
@@ -93,22 +93,22 @@ The colors are randomly modified using 2 *rgb* colors as base:
 
 These results are achieved through the variation -combination of the mentioned parameters.
 
-![Example 1](img/skin0.png)
-![Example 2](img/skin2.png)
-![Example 3](img/skin15.png)
-![Example 4](img/skin47.png)
-![Example 5](img/skin21.png)
-![Example 6](img/skin22.png)
-![Example 7](img/skin38.png)
-![Example 8](img/skin39.png)
-![Example 9](img/skin49.png)
-![Example 10](img/skin58.png)
+![Example 1](skin0.png)
+![Example 2](skin2.png)
+![Example 3](skin15.png)
+![Example 4](skin47.png)
+![Example 5](skin21.png)
+![Example 6](skin22.png)
+![Example 7](skin38.png)
+![Example 8](skin39.png)
+![Example 9](skin49.png)
+![Example 10](skin58.png)
 
 #### Plants
 Plants represent food sources for preys. They're build using L-Systems. Based on [The Algorithmic Beauty of Plants Book](http://algorithmicbotany.org/papers/abop/abop.pdf)
 
-![Plants example 1](img/plants1.PNG)
-![Plants example 2](img/plants2.PNG)
+![](plants1.PNG)
+![](plants2.PNG)
 ### Seasons
 Food sources have several states which represent seasons (different growing stages depending on location). This feature lets us see interesting emergent behavior as migrations.
 
